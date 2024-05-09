@@ -18,4 +18,5 @@
 
 2. Tailwind component library(shadcn/ui) installation
     - npx shadcn-ui@latest init
-    - 
+
+3. Admin Page building
