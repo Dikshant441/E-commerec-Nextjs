@@ -6,6 +6,7 @@
 -> Prisma
 -> Stripe
 -> Tailwind
+-> shadcn-ui
 
 # Project Building
 1. Dependency installation
@@ -19,4 +20,5 @@
 2. Tailwind component library(shadcn/ui) installation
     - npx shadcn-ui@latest init
 
-3. Admin Page building
+3. Prisma schema file (short: schema file, Prisma schema or schema) is the main configuration file for your Prisma ORM setup.
+4. Admin Dashboard 
